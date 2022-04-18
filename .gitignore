@@ -1,0 +1,8 @@
+*.asc
+*.pth
+*.engine
+.ipynb_checkpoints
+
+# MkDocs documentation
+site/
+dataset/
